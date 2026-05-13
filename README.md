@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=El%20Khalloufi%20Mohamed%20Amine&fontSize=42&fontColor=58a6ff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Systems%20Programming%20%7C%20133%207%20Student)
-# 👋 Hello, I'm Amine
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff9f&height=180&section=header&text=El%20Khalloufi%20Mohamed%20Amine&fontSize=42&fontColor=00ff9f&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Systems%20Programming%20%7C%20133%207%20Student&descSize=16&descAlignY=55)
 
-## 🧑‍💻 Who are you?
+## 🧑‍💻 About Me
 I’m a Software Engineering student at 1337 Coding School 🇲🇦.  
 Passionate about low-level programming, system design, and understanding how computers work under the hood.
 
@@ -38,17 +37,6 @@ Focused on:
 - Networking  
 - Algorithms  
 - Data Structures  
-
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
----
-
-## 📫 How to reach you?
-- GitHub: https://github.com/YOUR_USERNAME  
-- Email: your.email@example.com  
 
 ---
 
