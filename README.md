@@ -11,6 +11,10 @@
 I’m a Software Engineering student at 1337 Coding School 🇲🇦.  
 Passionate about low-level programming, system design, and understanding how computers work under the hood.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
+</p>
+
 ---
 
 ## 🔨 Current Focus
