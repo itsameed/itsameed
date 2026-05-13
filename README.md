@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=180&section=header&text=El%20Khalloufi%20Mohamed%20Amine&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Systems%20Programming%20%7C%20C%2FC%2B%2B%20Developer&descSize=16&descAlignY=55)
-
-<br>
-
+<p align="center">
 [![mohel-kh's 42 stats](https://badge.mediaplus.ma/black/mohel-kh)](https://github.com/oakoudad/badge42)
+</p>
 
 ---
 
