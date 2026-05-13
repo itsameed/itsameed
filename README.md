@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=180&section=header&text=El%20Khalloufi%20Mohamed%20Amine&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Systems%20Programming%20%7C%20C%2FC%2B%2B%20Developer&descSize=16&descAlignY=55)
+[![mohel-kh's 42 stats](https://badge.mediaplus.ma/black/mohel-kh)](https://github.com/oakoudad/badge42)
 
 ## 🧑‍💻 About Me
 I’m a Software Engineering student at 1337 Coding School 🇲🇦.  
@@ -6,17 +7,20 @@ Passionate about low-level programming, system design, and understanding how com
 
 ---
 
-## 🔨 What are you currently working on?
+## 🔨 Current Focus
 I’m currently building projects in C/C++:
 
-- 🐚 Minishell (Unix shell implementation)
-- 🌐 IRC Server (network programming)
-- 🎮 Cub3D (raycasting game engine)
+- 🐚 **Minishell** — Unix shell implementation  
+- 🌐 **IRC Server** — network programming & real-time communication  
+- 🎮 **Cub3D** — raycasting-based game engine  
 
-Focused on:
-- Memory management
-- System programming
-- Algorithms & performance
+---
+
+## 🎯 Focus Areas
+- Memory management & optimization  
+- System programming (Unix/Linux)  
+- Algorithms & performance  
+- Network programming fundamentals  
 
 ---
 
