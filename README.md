@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff9f&height=180&section=header&text=El%20Khalloufi%20Mohamed%20Amine&fontSize=42&fontColor=00ff9f&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Systems%20Programming%20%7C%20133%207%20Student&descSize=16&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=180&section=header&text=El%20Khalloufi%20Mohamed%20Amine&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Systems%20Programming%20%7C%20C%2FC%2B%2B%20Developer&descSize=16&descAlignY=55)
 
 ## 🧑‍💻 About Me
 I’m a Software Engineering student at 1337 Coding School 🇲🇦.  
