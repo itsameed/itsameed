@@ -39,7 +39,6 @@ I’m currently building projects in C/C++:
 **Tools**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Scripting-black?style=for-the-badge)
 ![GCC](https://img.shields.io/badge/GCC-333333?style=for-the-badge)
 ![Makefile](https://img.shields.io/badge/Makefile-000000?style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/VSCode-IDE-blue?style=for-the-badge)
