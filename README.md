@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=El%20Khalloufi%20Mohamed%20Amine&fontSize=42&fontColor=58a6ff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Systems%20Programming%20%7C%20133%207%20Student)
 # 👋 Hello, I'm Amine
 
 ## 🧑‍💻 Who are you?
